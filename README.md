@@ -34,7 +34,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/electric-car-website.git
+git clone https://github.com/AakashYd/electric-car-website.git
 cd electric-car-website
 Install dependencies:
 
