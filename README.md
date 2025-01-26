@@ -4,6 +4,9 @@ A collection of full-stack projects showcasing frontend and backend development 
 ## Electric Car Website 🚗⚡
 An interactive full-stack web application designed to showcase electric cars with a focus on modern design, user experience, and advanced animations. This project is built with a powerful tech stack to deliver seamless functionality across all pages.
 
+![](https://github.com/username/repo-name/raw/main/video.mp4)
+
+
 ### 🌟 Features:
 #### Frontend:
 - **Home Page**: A visually appealing homepage with Spline animations and engaging content.
